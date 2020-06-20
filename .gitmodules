@@ -1,0 +1,6 @@
+[submodule "epost-frontend"]
+	path = epost-frontend
+	url = https://github.com/so-testy/epost-frontend.git
+[submodule "mailServiceBackend"]
+	path = mailServiceBackend
+	url = https://github.com/so-testy/mailServiceBackend
